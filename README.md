@@ -1,4 +1,4 @@
-# Readme - Business Connectors
+# Business Connectors
 
 The most elegant solution is usually the simplest. This repository only contains a Microsoft Excel workbook which uses Power Query to get the lists of standard and premium connectors available in Power Automate, Power Apps, and Azure Logic Apps from the Microsoft Docs website.
 
